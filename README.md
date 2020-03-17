@@ -1,3 +1,14 @@
+to get started you need to add 
+
+npm install --save bootstrap
+npm install --save reactstrap react react-dom
+
+after you complete the abobe steps you need to add the following to the src index
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
